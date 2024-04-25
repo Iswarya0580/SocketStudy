@@ -1,5 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
+# Name:Iswarya P
+# Reg no:212223230082
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
